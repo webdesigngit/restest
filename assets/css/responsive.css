@@ -1,0 +1,11 @@
+@media(max-width:1500px){
+    .section-01{
+        background-color: chartreuse;
+    }
+}
+
+@media(max-width:1200px){
+    .section-01{
+        background-color: burlywood;
+    }
+}
