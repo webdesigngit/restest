@@ -1,0 +1,530 @@
+@media(max-width:1500px){
+    .navigation {        
+        padding: 20px 30px;
+    }
+    .sslkafkj img {
+        bottom: 15px;
+    }
+    .section-01 {        
+        padding: 98px 0px 100px;        
+    }
+    .secb1 h1 {
+        font-size: 53px;        
+    }
+    .secb1 p {        
+        font-size: 15px;        
+    }
+    .section-02 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .col-2-3 {
+        width: 255px;        
+        height: 471px;
+        margin-top: 31px;
+    }
+    .se5boxchild {
+        max-width: 270px;        
+        padding: 15px;
+        
+
+    }
+    .se5boxchild h2 {       
+        font-size: 19px;
+    }
+    .se5boxchild p {
+        font-size: 12px;
+        padding-top: 0px;
+    }
+    .se5boxchild4 p {
+        padding-top: 38px !important;
+    }
+    .col-2-3 {
+        display: none;
+    }
+    .se6box1, .se6box2, .se6box3 {
+        max-width: 350px;        
+    }
+    .se6box1:hover, .se6box2:hover, .se6box3:hover{
+        transform: scale(1);        
+    }
+    .se6box1 img, .se6box2 img, .se6box3 img {
+        max-width: 350px;
+        object-fit: cover;
+
+    }
+    .se5boxchild:hover{
+        transform: scale(1);
+    }
+    
+}
+
+@media(max-width:1200px){
+    .section-01 {
+        background-color: #2532b7;
+        padding: 72px 0px 85px;
+        text-align: center;
+        color: #fff;
+    }
+    .secb1 h1 {
+        font-size: 40px;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+        line-height: 83px;
+        margin-bottom: 0px;
+        font-family: var(--yotpo-font-family-heading);
+    }
+    .secb1 p {        
+        font-size: 14px;
+        
+    }
+
+    .section-02 {
+        
+        padding-top: 67px;
+    }
+    .sslkafkj{
+        margin-top: 20px;
+    }
+    .sslkafkj img {
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        bottom: -3px;
+    }
+    .se5boxchild1:hover{
+        transform: scale(1);
+    }
+    .se5boxchild2:hover{
+        transform: scale(1);
+    }
+    .se5boxchild3:hover{
+        transform: scale(1);
+    }
+    .se5boxchild4:hover{
+        transform: scale(1);
+    }
+
+    .se5boxchild {
+        max-width: 289px;
+        
+    }
+    .se5boxchild4 p {
+        padding-top: 29px;
+    }
+    .se5boxchild p {
+        
+        font-size: 12px;
+        padding-top: 0px;
+        
+    }
+    .se6box1 img {
+        max-width: 330px;
+        
+    }
+    .se6box1{
+        max-width: 330px;        
+    }
+    .se6box2 img {        
+        max-width: 330px;
+    }
+    .se6box3 img {
+        width: 330px !important;        
+    }
+    .se6box3 {
+        width: 330px !important;        
+    }
+    .section-05 {
+        margin-top: 67px;
+    }
+    .se5box {       
+        padding: 0px 7px;
+    }
+    .navigation {
+        padding: 10px 30px;
+    }
+    .se6box3 {        
+        padding-bottom: 21px;        
+    }
+    .sslkafkj {        
+        height: 471px;
+    }
+    .col-2-3 {
+        width: 270px;        
+    }
+    .se5boxchild {
+        max-width: 250px;
+    }    
+    .se5box {
+        padding: 0px 37px;
+    }
+    .se5boxchild img {
+        width: 36px;
+    }
+    .se5boxchild p {
+        font-size: 12px;
+    }
+    .se6box1 img {
+        max-width: 331px;
+    }
+    .se6box2 img {
+        max-width: 352px;
+    }
+}
+
+@media(max-width:992px){
+    .menu ul li a {
+        font-size: 14px;
+    }
+    .cart ul li a {
+        font-size: 15px;
+    }
+    .flex02child img {
+        max-width: 200px;
+    }
+    .flex02child2 img {
+        max-width: 220px;
+        object-fit: contain;
+    }
+    .flex02child div h2{
+        font-size: 20px;
+    }
+    .flex02child div p{
+        font-size: 10px;
+    }
+    .flex02child2 div h2 {
+        font-size: 20px;
+    }
+    .flex02child2 div p {
+        font-size: 10px;
+    }
+    .flex02child {
+        max-height: 310px;
+        padding-bottom: 30px;
+    }
+    .flex02child2{
+        max-height: 310px;
+        padding-bottom: 30px;
+    }
+    .flex-01 {
+        height: auto;
+    }
+    img {
+        max-width: 100%;
+        max-width: 250px;
+    }
+    .flex-01 div h2 {
+        font-size: 20px;
+    }
+    .flex-01 div p {
+        font-size: 10px;
+    }
+    
+    .flex02child2 div a, .flex-01 div a, .flex02child div a {
+        font-size: 12px;
+    }
+    .se4width p {
+        font-size: 13px;
+        width: 380px;
+    }
+    .section-03{display: none;}
+    .button a {
+        font-size: 13px;
+    }
+    .secb1 p {
+        font-size: 11px;
+        max-width: 90%;
+    }
+    .se5box{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 60px;
+    }
+    .se5boxchild{
+        max-width: 287px;
+    }
+    .buton a {
+        font-size: 13px;
+    }
+    .se5boxchild p {
+        font-size: 13px;
+        line-height: 24px;
+        text-align: left;
+        letter-spacing: 1px;
+    }
+    .se5boxchild {
+        max-width: 370px;
+    }
+    .se5boxchild {
+        padding: 31px;
+    }
+    .se5boxchild h2 {
+        font-size: 25px;
+    }
+    .se6box {
+        flex-wrap: wrap;
+        gap: 15px 20px;
+        align-items: stretch;
+        justify-content: center;
+    }
+    .se7width {
+        padding: 20px 0px 72px;
+    }
+
+
+
+
+}
+@media(max-width:767px){
+    .navigation {        
+        align-items: anchor-center;
+    }
+    .logo {
+        width: 85%;
+    }
+    .menu {
+        width: 100%;
+    }
+    .cart {
+        width: 80%;
+    }
+    .menu ul {
+        row-gap: 7px;
+        flex-wrap: wrap;
+    }
+    .menu ul li a {
+        font-size: 12px;
+    }
+    .cart ul li a {
+        font-size: 15px;
+    }
+    .section-01 {
+        padding: 40px 0px 64px;
+    }
+    .sec01width {
+        max-width: 359px;
+    }
+    .secb1 h1 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .secb1 p {
+        font-size: 9px;
+    }
+    .button a {
+        padding: 7px 20px;
+        font-size: 10px;
+    }
+    .secb1 p {
+        margin-bottom: 3px;
+    }
+    .flex {
+        display: flex;
+        row-gap: 30px;
+        flex-direction: column;
+    }
+    .flex-01 {
+        /* background-color: #cbc5fb; */
+        max-width: 700px;
+        flex-direction: row;
+        row-gap: 8px;
+        height: 322px;
+    }
+    .flex-01 img, .flex02child img, .flex02child2 img{
+        max-width: 290px;
+        object-fit: contain;
+    }
+
+    .flex-01 div h2,.flex02child div h2,.flex02child2 div h2 {
+        font-size: 21px;
+    }
+    .flex-01 div p,.flex02child div p,.flex02child2 div p {
+        font-size: 10px;
+    }
+    .flex-01 div a,.flex02child div a,.flex02child2 div a {
+        font-size: 12px;
+    }
+    .flex02child,.flex02child2 {
+        padding: 45px 45px  30px;        
+    }
+    .headsec h2 {
+        font-size: 30px;
+    }
+    .headsec p {
+        font-size: 11px;
+        line-height: 0px;
+    }
+    .box1 h4 {
+        font-size: 10px;
+    }
+    .section-03 {
+        background-color: #fffcf5;
+        padding-top: 160px;
+        display: none;
+    }
+    .section-04 {
+        background-color: #FFFCF5;
+        padding: 96px 30px 0px;
+    }
+    .se4width {
+        max-width: 1600px;
+        margin: 0 auto;
+        padding: 42px 0px;
+        background-color: #2C4C50;
+        color: #fff;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .se4width h2 {
+        font-family: 'ivypresto-headline';
+        font-size: 34px;
+        margin-bottom: 15px;
+        font-weight: 500;
+        letter-spacing: 0.8px;
+    }
+    .se4width p {
+        text-align: center;
+        font-family: 'Inter';
+        font-size: 12px;
+        margin-bottom: 30px;
+        width: 440px;
+        font-weight: 400;
+        line-height: 144.444%;
+    }
+    .buton a {
+        color: #343438;
+        text-decoration: none;
+        /* border: 1px solid; */
+        padding: 6px 23px;
+        border-radius: 27px;
+        background-color: #fff;
+        font-family: 'Inter';
+        font-size: 10px;
+    }
+    .se5box {
+        display: flex;
+        row-gap: 10px;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .se5box {
+        display: flex;
+        row-gap: 30px;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .se5boxchild {
+        max-width: 270px;
+    }
+    .se6box {
+        flex-direction: row;
+        row-gap: 30px;
+        flex-wrap: wrap;
+    }
+    .se5box {
+        padding: 0px 19px;
+        justify-content: space-evenly;
+    }
+    .se5boxchild {
+        max-width: 320px;
+        height: auto;
+    }
+    .sec07-box1 img {
+        max-width: 12%;
+    }
+    .sec07-box1 span {
+        font-size: 30px;
+    }
+    .se7width h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .se7width a {
+        font-size: 12px;
+        padding: 7px 26px;
+    }
+    .se7width {
+        padding: 30px 0px 80px;
+    }
+    .menu {
+        max-width: 100%;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .logo {
+        max-width: 30%;
+        flex-basis: 30%;
+    }
+    .cart {
+        max-width: 70%;
+        flex-basis: 70%;
+    }
+    .navigation {
+        flex-wrap: wrap;
+    }
+}
+
+
+@media(max-width:575px){
+    .navigation {
+        flex-wrap: wrap;
+    }
+    .logo {
+        max-width: 30%;
+        flex-basis: 30%;
+        order: 1;
+    }
+    .menu {
+        max-width: 100%;
+        flex-basis: 100%;
+        order: 3;
+    }
+    .cart {
+        max-width: 70%;
+        flex-basis: 70%;
+        order: 2;
+    }
+    .menu ul li {
+        padding: 8px 0px;
+    }
+    .flex-01 img, .flex02child img, .flex02child2 img {
+        max-width: 200px;
+    }
+    .se5box {
+        gap: 15px;
+    }
+    .se5boxchild {
+        max-width: 250px;
+    }
+    .se5boxchild p {
+        text-align: left;
+    }
+    .s36h2 h2 {
+        font-size: 33px;
+    }
+    .se4width h2{
+        max-width: 300px;
+        text-align: center;
+    }
+    .se4width p {
+        width: 353px;
+    }
+    .se6box1 {
+        margin-bottom: -8px;
+    }
+    .se5boxchild {
+        max-width: 241px;        
+        padding: 20px;
+    }
+    .se5boxchild h2 {
+        font-size: 20px;
+    }
+    .se5boxchild p {
+        font-size: 10px;
+        line-height: 17px;
+    }
+}
